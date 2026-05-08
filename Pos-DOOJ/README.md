@@ -52,7 +52,7 @@ O objetivo deste repositório é armazenar práticas, exercícios e aplicações
 
 # 📚 02 - Programação Avançada Java JSE
 
-## 👨‍🏫 Professor Jander Vinicius Pereira**
+## 👨‍🏫 Professor Jander Vinicius Pereira
 
 ## Projetos
 
