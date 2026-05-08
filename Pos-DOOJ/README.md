@@ -33,8 +33,7 @@ O objetivo deste repositório é armazenar práticas, exercícios e aplicações
 
 # 📚 01 - Programação Básica Java JEE
 
-Curso ministrado por:
-**Prof. Alessandro dos Santos Calin**
+## 👨‍🏫 Professor Alessandro dos Santos Calin
 
 ## Projetos
 
@@ -53,8 +52,7 @@ Curso ministrado por:
 
 # 📚 02 - Programação Avançada Java JSE
 
-Curso ministrado por:
-**Prof. Jander Vinicius Pereira**
+## 👨‍🏫 Professor Jander Vinicius Pereira**
 
 ## Projetos
 
@@ -74,8 +72,7 @@ Curso ministrado por:
 
 # 🌐 03 - Aplicação Web Java EE
 
-Curso ministrado por:
-**Prof. Jose Bohorquez**
+## 👨‍🏫 Professor Jose Bohorquez**
 
 ## Projetos
 
